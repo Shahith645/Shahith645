@@ -140,7 +140,6 @@ Plan your day and track habits in a clean dark dashboard that runs as a Windows 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahith645&theme=dark&background=000000&ring=e11d2e&fire=e11d2e&currStreakLabel=e11d2e&border=3a0509" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahith645&bg_color=000000&color=ffffff&line=e11d2e&point=ffffff&area=true&area_color=e11d2e&hide_border=true" alt="Contribution graph" width="95%" />
 
 </div>
 
