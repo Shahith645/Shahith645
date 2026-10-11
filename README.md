@@ -19,7 +19,6 @@
 
 Computer Science Engineering student at **University College of Engineering, Nagercoil**, graduating in **July 2027**. I enjoy turning ideas into working web and mobile apps, from the interface people see to the backend and database behind it.
 
-**Portfolio:** [https://shahith-006.web.app/](https://shahith-006.web.app/) &nbsp;|&nbsp; **Resume:** [View on Google Drive](https://drive.google.com/file/d/1Jh5FxH5wGys_NlJH5eAN8tLONKm2zlO_/view?usp=drive_link)
 
 ### What drives me
 
