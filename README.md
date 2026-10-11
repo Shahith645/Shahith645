@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e11d2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio626-7efc5.web.app)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-e11d2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahith-006.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=e11d2e)](https://www.linkedin.com/in/shahith-s/)
 [![Email](https://img.shields.io/badge/EMAIL-e11d2e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahith6369@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=googledrive&logoColor=e11d2e)](https://drive.google.com/file/d/1Jh5FxH5wGys_NlJH5eAN8tLONKm2zlO_/view?usp=drive_link)
