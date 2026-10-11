@@ -19,7 +19,7 @@
 
 Computer Science Engineering student at **University College of Engineering, Nagercoil**, graduating in **July 2027**. I enjoy turning ideas into working web and mobile apps, from the interface people see to the backend and database behind it.
 
-**Portfolio:** [portfolio626-7efc5.web.app](https://portfolio626-7efc5.web.app) &nbsp;|&nbsp; **Resume:** [View on Google Drive](https://drive.google.com/file/d/1Jh5FxH5wGys_NlJH5eAN8tLONKm2zlO_/view?usp=drive_link)
+**Portfolio:** [https://shahith-006.web.app/](https://shahith-006.web.app/) &nbsp;|&nbsp; **Resume:** [View on Google Drive](https://drive.google.com/file/d/1Jh5FxH5wGys_NlJH5eAN8tLONKm2zlO_/view?usp=drive_link)
 
 ### What drives me
 
@@ -180,7 +180,7 @@ const shahith = {
 
 Always open to discussing new projects, internships, or opportunities where I can learn and contribute.
 
-[![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-e11d2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio626-7efc5.web.app)
+[![Portfolio](https://img.shields.io/badge/VISIT_PORTFOLIO-e11d2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahith-006.web.app/)
 [![Email](https://img.shields.io/badge/SEND_EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=e11d2e)](mailto:shahith6369@gmail.com)
 [![Resume](https://img.shields.io/badge/VIEW_RESUME-e11d2e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Jh5FxH5wGys_NlJH5eAN8tLONKm2zlO_/view?usp=drive_link)
 
